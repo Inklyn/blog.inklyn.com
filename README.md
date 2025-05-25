@@ -1,2 +1,3 @@
-# blog.inklyn.com
-Inklyn Blog
+# Inklyn Blog
+
+https://blog.inklyn.com
